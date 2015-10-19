@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/victorfrandsen/code/android/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/victorfrandsen/code/android/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-08984b9803a08bfa491b4d201f8f5aa8d534c468.jar" />
+    </item>
+    <item
+        jar="/Library/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/victorfrandsen/code/android/BluetoothChat/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-eea14a8d9e5532dabb9ff2e605f0677df1f4a556.jar" />
+    </item>
+    <item
+        jar="/Users/victorfrandsen/code/android/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/victorfrandsen/code/android/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-b89fd6d65a7ff63a653824ff3ef35dd64c665691.jar" />
+    </item>
+    <item
+        jar="/Users/victorfrandsen/code/android/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/victorfrandsen/code/android/BluetoothChat/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-3d2119cee84239b1f6809d1cee8fcf865e5135f2.jar" />
+    </item>
+    <item
+        jar="/Users/victorfrandsen/code/android/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="/Users/victorfrandsen/code/android/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-b7776dae3251ce6f8b9d9a9cd7f96524c384cd6a.jar" />
+    </item>
+
+</items>
